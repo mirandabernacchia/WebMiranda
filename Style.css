@@ -1,0 +1,131 @@
+
+<!--Banner -->
+
+
+
+.Banner {
+    background-image: url(https://images.pexels.com/photos/3394310/pexels-photo-3394310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-size: cover;
+    background-position: top;
+    color: white;
+    font-weight: lighter;
+    margin: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    height: 100%;
+    object-fit: cover;
+  
+}
+
+#logo{width: 100:;
+  border-radius: 50%;
+  
+}
+
+
+h1 {font-family: Courier;
+  color: white;
+  font-weight: bold;
+  font-size: 35px;
+  text-align: center;
+  border: dotted;
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+}
+
+p{padding-top: 25px;
+  padding-bottom: 25px;
+  margin: 0 0 20px;
+
+}
+
+
+.btn-instagram {
+  border: 1px solid #ffcc99;
+  background-color: black;
+  font-size: 20px;
+  color: #ffcc99;
+  background-position: center;
+  padding:10px 15px;
+  border-radius: 6px;
+
+
+}
+
+
+
+h3 {
+  font-family: 'Playfair Display', serif;
+  color: lightblue;
+  font-weight: solid;
+  font-size: 30px;
+  opacity: 0,9;
+  text-align: center;
+  letter-spacing: 15;
+  align-items: center;
+  height: 50px;
+  object-fit: cover;
+  height: 25%;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  background-color: black;
+  background-size: 50% 50%;
+  background-position: center;
+  display: grid;
+  margin: 20px;
+  
+  
+
+
+
+
+
+}
+
+
+.phrases  
+h2 {color: #ffcc99;
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+  text-align: center;
+  border: dotted;
+  border-color: #ffcc99;
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+}
+
+
+
+body{ 
+  background: black;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  margin: 0
+}
+
+
+.form-group{
+  background-color: white;
+  color: lightblue;
+  margin: 0px;
+  font-size: 15px;
+  text-align: left;
+  padding:10px 10px;
+  border-right: 50px;
+  border-left-style: 50px;
+} 
+
+#footer
+ { animation: backwards;
+  background-color: black;
+  color: white;
+
+} 
+
+a:hover {
+  color: white;
+  text-decoration: none;
+  color: #ffcc99;
+} 
